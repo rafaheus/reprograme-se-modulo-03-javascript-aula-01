@@ -1,0 +1,1 @@
+console.log("Estou no index2.js")
